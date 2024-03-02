@@ -8,3 +8,4 @@ country: US
 email_address: 
 sans:
   - name: www.example.com
+  - name: web.example.com
