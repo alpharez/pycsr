@@ -1,0 +1,10 @@
+---
+common_name: example.com
+organization: example
+organizational_unit: IT
+locality: New York
+state: NY
+country: US
+email_address: 
+sans:
+  - name: www.example.com
